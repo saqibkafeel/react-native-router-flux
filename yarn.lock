@@ -6775,6 +6775,10 @@ react-native@0.56.0:
     xmldoc "^0.4.0"
     yargs "^9.0.0"
 
+react-navigation-drawer@saqibkafeel/react-navigation-drawer:
+  version "2.3.4"
+  resolved "https://codeload.github.com/saqibkafeel/react-navigation-drawer/tar.gz/aa4375fa2b3dc049f837f7da1afee61b2905be1a"
+
 react-navigation-stack@^2.10.2:
   version "2.10.4"
   resolved "https://registry.yarnpkg.com/react-navigation-stack/-/react-navigation-stack-2.10.4.tgz#377fd6533f8ae0cf5ca5a435a0115851f010306a"

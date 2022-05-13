@@ -4,7 +4,7 @@ import {
   Platform, I18nManager, Image, StyleSheet, Text, TouchableOpacity, View,
 } from 'react-native';
 import { NavigationActions } from 'react-navigation';
-import { DrawerActions } from 'react-navigation-drawer';
+import { DrawerActions } from 'saqibkafeel/react-navigation-drawer';
 import _backButtonImage from '../images/back_chevron.png';
 
 const hitSlop = {
